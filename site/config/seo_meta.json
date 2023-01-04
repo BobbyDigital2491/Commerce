@@ -1,13 +1,13 @@
 {
-  "title": "Triple x Saint | Created by Next.js Commerce",
+  "title": "Triple x Saint | Created by Sokoni",
   "titleTemplate": "%s - ACME Storefront",
   "description": "Triple x Saint Burn 2 Earn E-commerce Marketplace",
   "openGraph": {
-    "title": "Triple x Saint | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Triple x Saint | Created by Sokoni",
+    "description": "Triple x Saint Burn 2 Earn E-commerce Marketplace",
     "type": "website",
     "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "site_name": "Triple x Saint",
     "images": [
       {
         "url": "/card.png",
