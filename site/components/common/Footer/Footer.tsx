@@ -79,7 +79,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
               target="_blank"
               className="text-primary"
             >
-              Sokoni
+              &nbsp;Sokoni
             </a>
           </div>
         </div>
